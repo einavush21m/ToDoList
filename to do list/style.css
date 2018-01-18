@@ -1,0 +1,11 @@
+body{
+    width: 300px;
+    margin: 0 auto;
+}
+li:hover{
+    text-decoration: line-through;
+    cursor: pointer;/*hand sign*/
+}
+ul{
+    list-style: none;
+}
